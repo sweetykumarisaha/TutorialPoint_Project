@@ -8,23 +8,23 @@
       <![CDATA[============CLOSE Browser=============]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-11-13T01:11:05 IST" name="Default suite" finished-at="2021-11-13T01:12:57 IST" duration-ms="112582">
+  <suite started-at="2021-11-13T01:24:38 IST" name="Default suite" finished-at="2021-11-13T01:24:56 IST" duration-ms="17305">
     <groups>
     </groups>
-    <test started-at="2021-11-13T01:11:05 IST" name="Default test" finished-at="2021-11-13T01:12:57 IST" duration-ms="112582">
+    <test started-at="2021-11-13T01:24:38 IST" name="Default test" finished-at="2021-11-13T01:24:56 IST" duration-ms="17305">
       <class name="com.tutorialPoint.TC.TC_01">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tutorialPoint.TC.TC_01@550ee7e5]" started-at="2021-11-13T01:11:05 IST" name="openBrowser" finished-at="2021-11-13T01:11:37 IST" duration-ms="32475" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tutorialPoint.TC.TC_01@550ee7e5]" started-at="2021-11-13T01:24:38 IST" name="openBrowser" finished-at="2021-11-13T01:24:50 IST" duration-ms="12123" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[======== Launch Browser ==============]]>
             </line>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="validatOptionTest()[pri:0, instance:com.tutorialPoint.TC.TC_01@550ee7e5]" started-at="2021-11-13T01:11:37 IST" name="validatOptionTest" finished-at="2021-11-13T01:12:56 IST" duration-ms="78982" status="PASS">
+        <test-method signature="validatOptionTest()[pri:0, instance:com.tutorialPoint.TC.TC_01@550ee7e5]" started-at="2021-11-13T01:24:50 IST" name="validatOptionTest" finished-at="2021-11-13T01:24:55 IST" duration-ms="4511" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatOptionTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialPoint.TC.TC_01@550ee7e5]" started-at="2021-11-13T01:12:56 IST" name="closeBrowser" finished-at="2021-11-13T01:12:57 IST" duration-ms="836" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialPoint.TC.TC_01@550ee7e5]" started-at="2021-11-13T01:24:55 IST" name="closeBrowser" finished-at="2021-11-13T01:24:56 IST" duration-ms="609" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[============CLOSE Browser=============]]>
